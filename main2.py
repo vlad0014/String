@@ -1,0 +1,2 @@
+my_str=input("Введіть строку:").lower()
+print(my_str.count('p')+my_str.count('b')+my_str.count('m')+my_str.count('w')+my_str.count('f')+my_str.count('t')+my_str.count('d')+my_str.count('n')+my_str.count('c')+my_str.count('g')+my_str.count('s')+my_str.count('z')+my_str.count('i')+my_str.count('r')+my_str.count('j')+my_str.count('k')+my_str.count('n')+my_str.count('h'))
